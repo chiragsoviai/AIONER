@@ -1,7 +1,7 @@
-tensorflow==2.3.0
-stanza==1.4.0
+tensorflow[and-cuda]==2.17.0
+stanza==1.8.2
 bioc==2.0.post4
-tensorflow-addons==0.12.1
-spacy==3.2.4
+spacy==3.7.5
 transformers==4.18.0
-
+flask==3.0.3
+tfa-nightly
